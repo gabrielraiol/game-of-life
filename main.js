@@ -100,7 +100,7 @@ function update() {
     }
     setTimeout(() => {
         requestAnimationFrame(update);
-    }, 40);
+    }, 90);
 }
 
 init();
