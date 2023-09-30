@@ -1,5 +1,5 @@
 <h1>Game of Life Challenge</h1>
-<a href="https://gameoflifechallenge.vercel.app">Link to page</a>
+<a href="https://gameoflifechallenge.vercel.app" target="_blank">Link to page</a>
 </br>
 </br>
 <p>This was a challenge proposed by a friend so that I could train my knowledge in logic and JavaScript. Conway's game of life is a cellular automaton and takes place in an infinite two-dimensional arrangement of cells that can be in one of two states, alive or dead. Each cell interacts with its eight neighbors, the horizontally, vertically and diagonally adjacent cells. The game evolves in discrete units of time called generations. With each new generation, the game state is updated by applying the following rules:</p>
